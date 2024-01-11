@@ -20,8 +20,10 @@ Table of Contents
 5) https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5460236223438621/4210893823703454/6201367242108505/latest.html - Published Databricks Notebook link that allows for the notebook to be viewed and interacted with.
 6) Data_Warehousing_Final_Project.py - Exported Python Source File for the Databricks Notebook.
 7) Data_Warehousing_Final_Project.HTML - Exported HTML File of the Databricks Notebook.
+8) sample_data.csv - This CSV file represents the first 100 rows of the raw dataset that was used in this project. The original was 172,000 rows and too large to store on GitHub.
 
 Worth mentioning, the files for this project are fairly large, so if you are viewing the IPython Notebook in this repository directly through GitHub, please give it a few moments to render.
+If it every says something like, "Unable to render code block", simply refresh the page and it should render properly.
 As for the Data_Warehousing_Final_Project.HTML file, it is recommended to download this one and view it in your browser in order to see the code as it appears in Databricks.
 If viewed through GitHub directly or as a raw file, it will not appear as it does in Databricks.
 Otherwise, following the link in item 5 will bring you to the same page on your browser as well.
