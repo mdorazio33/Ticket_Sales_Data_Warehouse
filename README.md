@@ -15,8 +15,13 @@ to better understand what is contained in this repo.
 Table of Contents
 1) Database_Model_for_Ticket_Sales_DW.pdf - PDF of the Dimensional Model made to reflect the Dimension and Fact tables modeled in Databricks. This visualization was created using Vertabelo.
 2) Ticket_Sales_DW_Visualizaitons.pdf - PDF containing the visualizations created in the Analysis #1, Analysis #2, and Analysis #3 sections of the project using the built-in visualization tools that Databricks provides.
-3) Data_Warehousing_Final_Project.ipynb - Python Notebook containing the Python code and SQL queries used throughout this project.
+3) Data_Warehousing_Final_Project.ipynb - IPython Notebook containing the Python code and SQL queries used throughout this project.
 4) Data_Warehousing_Final_Project.dbc - DBC Archive of the Databricks Notebook.
 5) https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5460236223438621/4210893823703454/6201367242108505/latest.html - Published Databricks Notebook link that allows for the notebook to be viewed and interacted with.
 6) Data_Warehousing_Final_Project.py - Exported Python Source File for the Databricks Notebook.
 7) Data_Warehousing_Final_Project.HTML - Exported HTML File of the Databricks Notebook.
+
+Worth mentioning, the files for this project are fairly large, so if you are viewing the IPython Notebook in this repository directly through GitHub, please give it a few moments to render.
+As for the Data_Warehousing_Final_Project.HTML file, it is recommended to download this one and view it in your browser in order to see the code as it appears in Databricks.
+If viewed through GitHub directly or as a raw file, it will not appear as it does in Databricks.
+Otherwise, following the link in item 5 will bring you to the same page on your browser as well.
