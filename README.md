@@ -12,7 +12,7 @@ the total sales by order location, and sales over time. In order to view these c
 Since this project ties in the use of multiple technologies and techniques including the use of delta tables, Apache Spark (PySpark SQL), and Kimball-style dimensional modeling, this repository contains many different attachments. The following is a brief Table of Contents
 to better understand what is contained in this repo.
 
-Table of Contents
+Table of Contents:
 1) Database_Model_for_Ticket_Sales_DW.pdf - PDF of the Dimensional Model made to reflect the Dimension and Fact tables modeled in Databricks. This visualization was created using Vertabelo.
 2) Ticket_Sales_DW_Visualizaitons.pdf - PDF containing the visualizations created in the Analysis #1, Analysis #2, and Analysis #3 sections of the project using the built-in visualization tools that Databricks provides.
 3) Data_Warehousing_Final_Project.ipynb - IPython Notebook containing the Python code and SQL queries used throughout this project.
